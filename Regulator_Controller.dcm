@@ -312,6 +312,12 @@ K switching buck converter regulator dual-output
 F https://www.analog.com/media/en/technical-documentation/data-sheets/LTC7810.pdf
 $ENDCMP
 #
+$CMP LTC7821
+D 48V hybrid synchronous step-down DC/DC controller, QFN-32
+K switching buck converter regulator
+F https://www.analog.com/media/en/technical-documentation/data-sheets/ltc7821.pdf
+$ENDCMP
+#
 $CMP NCP1200D100
 D PWM Current-Mode Controller for Off-Line Supplies, AC-DC, 100kHz, SOIC-8
 K SMPS Controller AC-DC
